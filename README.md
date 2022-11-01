@@ -1,2 +1,2 @@
 # mitpe-ml
-Additional resources made for the Machine Learning - From Data to Insights, Machine Learning Professional Education course
+Additional resources made for the Machine Learning - From Data to Insights, MIT Professional Education online program
